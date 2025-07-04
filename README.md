@@ -1,1 +1,1 @@
-"# ResumeParsing" 
+Objective: To design and train a custom Machine Learning model capable of automatically identifying and extracting structured information (such as Name, Skills, Designation, etc.) from unstructured text in resumes.
