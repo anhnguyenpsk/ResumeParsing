@@ -1,0 +1,5 @@
+results/output/model-best/transformer/model filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+results/output/model-last/transformer/model filter=lfs diff=lfs merge=lfs -text
